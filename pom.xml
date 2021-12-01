@@ -34,8 +34,8 @@
 				    <cloudHubDeployment>
 				        <uri>https://anypoint.mulesoft.com</uri>
 				        <muleVersion>4.4.0</muleVersion>
-				        <username>bhanuasdf</username>
-				        <password>Fcvbnjhg@1Fcvbnjhg@1</password>
+				        <username>API_1904</username>
+				        <password>wazahatullaAkib2518</password>
 				        <applicationName>agftry1</applicationName>
 				        <environment>Sandbox</environment>
 				        <workers>1</workers> 
