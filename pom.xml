@@ -36,7 +36,7 @@
 				        <muleVersion>4.4.0</muleVersion>
 				        <username>API_1904</username>
 				        <password>wazahatullaAkib2518</password>
-				        <applicationName>agftry1</applicationName>
+				        <applicationName>agftry2</applicationName>
 				        <environment>Sandbox</environment>
 				        <workers>1</workers> 
 				        <workerType>MICRO</workerType>
